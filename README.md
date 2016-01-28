@@ -129,6 +129,10 @@ Discord (不協和音) 版は、統一感を乱す覚悟で ASCII 文字に手�
 
 # バージョン
 
+## Version 4.0.1 (28 Jan. 2016)
+
+* ヒンティング情報の付与
+
 ## Version 4.0.0 (31 Dec. 2015)
 
 * Inconsolata.otf から Inconsolata-Regular/Bold.ttf への切り替え

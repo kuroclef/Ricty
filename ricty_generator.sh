@@ -2,11 +2,11 @@
 
 #
 # Ricty Generator
-ricty_version="4.0.1b"
+ricty_version="4.0.1"
 #
 
 #
-# Copyright (c) 2011-2015, Yasunori Yusa <yascentur at gmail.com>
+# Copyright (c) 2011-2016, Yasunori Yusa <yascentur at gmail.com>
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
