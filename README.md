@@ -230,8 +230,6 @@ GVim (Mac OS X/Windows)
   * [Ricty のビルド中に fontforge が segmentation fault でクラッシュする問題](http://d.hatena.ne.jp/eagletmt/20110602/1306964018)にてこれを回避したとの報告がありました。
   * また、一部のバージョンの FontForge にはファイル名を誤認識するというバグがあるようです。
     `-v` オプションで誤認識後のファイル名を確認し、ファイル名を変更することで対応してください。
-* Windows ではアンチエイリアスがキレイにかからず、特にフォントサイズが小さいときに文字が部分的に欠けます。
-  * [gdipp](http://code.google.com/p/gdipp/)、[ezgdi](http://code.google.com/p/ezgdi/)、[gdi++ Helium](http://www18.atwiki.jp/gdiplus2/pages/46.html) などを使用すると Linux と同等の美しさで表示されます (アプリケーションによってまったく機能しないことがあります)。
 
 # メモ
 
