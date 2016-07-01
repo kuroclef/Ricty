@@ -374,7 +374,7 @@ while (i < SizeOf(input_list))
 
     # Scale down all glyphs
     if ("$scaling_down_flag" == "true")
-        Print("Scale down all glyphs (it may takes a little time).")
+        Print("Scale down all glyphs (it may take a little time).")
         SelectWorthOutputting()
         SetWidth(-1, 1); Scale(91, 91, 0, 0); SetWidth(110, 2); SetWidth(1, 1)
         Move(23, 0); SetWidth(-23, 1)
@@ -526,7 +526,7 @@ while (i < SizeOf(fontstyle_list))
     OverlapIntersect()
 
     # Proccess before saving
-    Print("Process before saving (it may takes a little time).")
+    Print("Process before saving (it may take a little time).")
     Select(".notdef")
     DetachAndRemoveGlyphs()
     SelectWorthOutputting()
